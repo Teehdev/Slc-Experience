@@ -1,6 +1,6 @@
 
 
-// note : objects that pass through passport have attached methods such as log in, isauthenticated
+// note : objects that pass through passport have methods attached to req objects such as log in, isauthenticated
 module.exports = {
     ensureAuth: function (req, res, next) {
       if(req.isAuthenticated()) {
