@@ -20,3 +20,24 @@ p {
 .img-small {
   width: 180px;
 }
+
+.grey.darken-3 {
+  background-color: #b8b8d1 !important;
+}
+
+.btn, .btn-large, .btn-small {
+  background-color: #5b5f97 !important;
+}
+.btn:hover {
+  background-color: #e2a0ff !important;
+}
+.red {
+  background-color: black !important;
+}
+.red:hover {
+  background-color: #F44336 !important;
+}
+.blue:hover {
+  background-color: #5b5f97 !important;
+}
+
